@@ -4,4 +4,4 @@
 ## Openopen Zeppelin version: openzeppelin-solidity v3.2.0
 ## Token Name : MarcoStar
 ## Token Symbol : MST*
-## Token address : 0xF98b0599642bCa997Bec80d070f384275f86f478
+## Token address : 0x397602B591fd778377dd5f00Ba3879e76531DFaC
